@@ -1,0 +1,3 @@
+use
+git clean -dfx
+for clean ignore file
